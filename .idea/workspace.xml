@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ed8a375-2fa1-40ec-8f34-149ce8c45efa" name="Default Changelist" comment="" />
+    <list default="true" id="1ed8a375-2fa1-40ec-8f34-149ce8c45efa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/dotnet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/laravel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/pngegg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +28,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1pOxJxaSNiRyRl6mz2kU7YezLrc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +39,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/portfolio" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/portfolio" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,6 +61,9 @@
       <updated>1615067869464</updated>
       <workItem from="1615067870565" duration="4284000" />
       <workItem from="1615284222286" duration="2961000" />
+      <workItem from="1615294105881" duration="1094000" />
+      <workItem from="1615495635978" duration="659000" />
+      <workItem from="1615838191192" duration="85000" />
     </task>
     <servers />
   </component>
@@ -59,5 +80,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
