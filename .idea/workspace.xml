@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ed8a375-2fa1-40ec-8f34-149ce8c45efa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/dotnet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/laravel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pngegg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/portfolio/getupcamp-1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -63,7 +61,8 @@
       <workItem from="1615284222286" duration="2961000" />
       <workItem from="1615294105881" duration="1094000" />
       <workItem from="1615495635978" duration="659000" />
-      <workItem from="1615838191192" duration="85000" />
+      <workItem from="1615838191192" duration="216000" />
+      <workItem from="1626685589271" duration="2651000" />
     </task>
     <servers />
   </component>
