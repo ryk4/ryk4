@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My name is Rytis and I am full stack web developer mostly working with Laravel.
 
-- 🔭 I’m currently working on Laravel
-- 🌱 I’m currently learning JavaScript and Vue.js
+Latest projects:
+
+https://github.com/ryk4/bookstore - A simple Laravel application for showcasing good practices and to be used for references in the future projects.
+
+More stuff coming soon... 😎
