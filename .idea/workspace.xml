@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ed8a375-2fa1-40ec-8f34-149ce8c45efa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/portfolio/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -39,13 +41,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/portfolio" />
       <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets/images/portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images" />
@@ -65,7 +67,7 @@
       <workItem from="1615495635978" duration="659000" />
       <workItem from="1615838191192" duration="216000" />
       <workItem from="1626685589271" duration="4315000" />
-      <workItem from="1660998866487" duration="997000" />
+      <workItem from="1660998866487" duration="2160000" />
     </task>
     <servers />
   </component>
